@@ -1,0 +1,2 @@
+# EpicBossPlus
+plugin boss
